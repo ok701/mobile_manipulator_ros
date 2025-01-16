@@ -1,6 +1,7 @@
 # Design and Motion Control of Mobile Manipulator for Telepresence Using VR Headset
 
 [![Video Thumbnail](https://img.youtube.com/vi/oeO4puoSP5c/0.jpg)](https://www.youtube.com/watch?v=oeO4puoSP5c)
+
 _Click the image above to watch the video demonstration._
 
 ## Overview
