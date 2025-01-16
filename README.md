@@ -1,4 +1,4 @@
-# Design and Motion Control of Mobile Manipulator for Telepresence Using VR Headset
+# Motion Control of Mobile Manipulator
 
 [![Video Thumbnail](https://img.youtube.com/vi/oeO4puoSP5c/0.jpg)](https://www.youtube.com/watch?v=oeO4puoSP5c)
 
